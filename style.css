@@ -439,6 +439,9 @@ div.work img {
   div.work {
     width: 1020px;
   }
+  div.work4 {
+    width: 900px;
+  }
   main p.gogh {
     margin: 0.4rem 0 3rem 0;
   }
@@ -516,6 +519,9 @@ div.work img {
   }
   div.work {
     width: 992px;
+  }
+  div.work4 {
+    width: 900px;
   }
   /* 섹션 영역 contain 기준 너비 변경 - 2단으로 처리하기 위한 적정 너비 */
   section .container {
@@ -599,6 +605,9 @@ div.work img {
     width: 768px; /*1140px -> 768px*/
   }
   div.work {
+    width: 768px;
+  }
+  div.work4 {
     width: 768px;
   }
   section {
@@ -701,6 +710,9 @@ div.work img {
   div.work {
     width: 380px;
   }
+  div.work4 {
+    width: 380px;
+  }
   /*Works 영역 변경*/
   section.works .works-inner-02 {
     width: 100%;
@@ -773,6 +785,9 @@ div.work img {
     width: 320px; /*540px -> 320px*/
   }
   div.work {
+    width: 320px;
+  }
+  div.work4 {
     width: 320px;
   }
   section .container {
